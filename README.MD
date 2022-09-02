@@ -1,5 +1,7 @@
 ## Java表达式计算工具-Aviator的使用
 
+> 参考博客 https://juejin.cn/search?query=Aviator
+
 添加依赖:
 ```
 <!-- https://mvnrepository.com/artifact/com.googlecode.aviator/aviator -->
@@ -17,7 +19,6 @@ Aviator 有两种常用的使用方式：
 ### 直接在Java代码中
 
 
-###  av脚本中使用
-
+###  av脚本中使用X
 AviatorScript语法：https://www.yuque.com/boyan-avfmj/aviatorscript/lvabnw
 Aviator在Java中的使用：https://juejin.cn/post/7002606430519853069
